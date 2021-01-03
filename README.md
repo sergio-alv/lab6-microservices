@@ -70,3 +70,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 755742 | [Juan José Tambo](https://github.com/jtambo99) | [jtambo99/lab6-microservices](https://github.com/jtambo99/lab6-microservices/tree/test) |    |
 | 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) | [irefu/lab6-microservices](https://github.com/irefu/lab6-microservices/tree/test) |    |
 | 758807 | [Jorge García Pueyo](https://github.com/jgarciapueyo) | [jgarciapueyo/lab6-microservices](https://github.com/jgarciapueyo/lab6-microservices/tree/test) | [API gateway for web and registration](https://spring.io/guides/gs/routing-and-filtering/) | |
+| 735041 | [Eduardo Díaz Larraga](https://github.com/ediazl) | [ediazl/lab6-microservices](https://github.com/ediazl/lab6-microservices/tree/test) |    |

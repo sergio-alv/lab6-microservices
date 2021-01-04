@@ -74,3 +74,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 723883 | [Jorge Turbica](https://github.com/turbica) | [Turbica/lab6-microservices](https://github.com/turbica/lab6-microservices/tree/test) |  |
 | 735041 | [Eduardo Díaz Larraga](https://github.com/ediazl) | [ediazl/lab6-microservices](https://github.com/ediazl/lab6-microservices/tree/test) |    |
 | 764429 | [Martín Gascón](https://github.com/MartinGasconL) | [MartinGasconL/lab6-microservices](https://github.com/MartinGasconL/lab6-microservices/tree/test) |  |
+| 764539 | [Eduardo Ruiz Cordón](https://github.com/eduardoRuizC) | [eduardoRuizC/lab6-microservices](https://github.com/eduardoRuizC/lab6-microservices/tree/test) |    |

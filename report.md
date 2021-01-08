@@ -16,6 +16,10 @@ Eureka dashboard with the 2 services registered:
 ![](images/eureka_dashboard.png)
 
 ### A second accounts microservice instance is started and will use the port 4444. This second accounts (4444) is also registered (a fourth terminal, log screenshots).
+To start the new accounts microservice, I copied the accounts folder, changed the port to 4444 in the application.yml file and ran it.
+![](images/new_accounts_server.png)
 
+The result in the Eureka dashboard:
+![](images/new_accounts_service_running.png)
 
 ### What happens when you kill the microservice accounts (2222) and do requests to web? Can the web service provide information about the accounts again? Why?

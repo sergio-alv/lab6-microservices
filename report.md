@@ -23,3 +23,8 @@ The result in the Eureka dashboard:
 ![](images/new_accounts_service_running.png)
 
 ### What happens when you kill the microservice accounts (2222) and do requests to web? Can the web service provide information about the accounts again? Why?
+If the accounts(2222) microservice is killed, the Eureka dashboard no longer shows 2 instances:
+![](images/accounts_2222_killed.png)
+
+Now if I request the web server information about the accounts using the URI /accounts/123456789 it can still provide information because we have the other instance of the microservice running.
+![](images/web_requests.png)

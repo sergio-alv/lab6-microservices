@@ -77,4 +77,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 764539 | [Eduardo Ruiz Cordón](https://github.com/eduardoRuizC) | [eduardoRuizC/lab6-microservices](https://github.com/eduardoRuizC/lab6-microservices/tree/test) |    |
 | 755769 | [Saúl Flores Benavente](https://github.com/saul205) | [saul205/lab6-microservices](https://github.com/saul205/lab6-microservices/tree/test) |    |
 | 740491 | [José Ignacio Hernández Gracia](https://github.com/740491) | [740491/lab6-microservices](https://github.com/740491/lab6-microservices/tree/test) |  | |
+| 719974 | [Sergio Martínez Martín](https://github.com/Sergio-Martinez-97) | [Sergio-Martinez-97/lab6-microservices](https://github.com/Sergio-Martinez-97/lab6-microservices/tree/test) |  | |
+| 737070 | [Daniel Barceló](https://github.com/DaniBarcelo) | [DaniBarcelo/lab6-microservices](https://github.com/DaniBarcelo/lab6-microservices/tree/test) |  |
+| 739324 | [Elena Morón Vidal](https://github.com/elenamv13) | [elenamv13/lab6-microservices](https://github.com/elenamv13/lab6-microservices/tree/test) |    |
 | 740241 | [Sergio Álvarez Peiro](https://github.com/sergio-alv) | [sergio-alv/lab6-microservices](https://github.com/sergio-alv/lab6-microservices/tree/test) |  | |

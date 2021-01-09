@@ -79,3 +79,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 740491 | [José Ignacio Hernández Gracia](https://github.com/740491) | [740491/lab6-microservices](https://github.com/740491/lab6-microservices/tree/test) |  | |
 | 719974 | [Sergio Martínez Martín](https://github.com/Sergio-Martinez-97) | [Sergio-Martinez-97/lab6-microservices](https://github.com/Sergio-Martinez-97/lab6-microservices/tree/test) |  | |
 | 737070 | [Daniel Barceló](https://github.com/DaniBarcelo) | [DaniBarcelo/lab6-microservices](https://github.com/DaniBarcelo/lab6-microservices/tree/test) |  |
+| 739324 | [Elena Morón Vidal](https://github.com/elenamv13) | [elenamv13/lab6-microservices](https://github.com/elenamv13/lab6-microservices/tree/test) |    |

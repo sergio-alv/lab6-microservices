@@ -38,10 +38,10 @@ Done:
 * [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://github.com/rauljavierre/lab6-microservices/tree/test) Raul Javierre has learned that wrapping a command with a circuit-breaker (e.g. Hystrix) is very to do today. :gift:
 * [Dockerize the three services](https://github.com/UNIZAR-30246-WebEngineering/lab6-microservices/pull/9). Alberto Calvo provides a detailed account of how to build Docker images using the Spring Docker plugin :gift:
 * [Docker compose with scale by command line](https://github.com/luisgg98/lab6-microservices/tree/docker-compose). Luis García has migrated all to docker-compose and provides insights on the mix between Spring and docker. 
+* [API gateway for web and registration](https://github.com/jgarciapueyo/lab6-microservices/tree/gift). Jorge García shows how zuul and eureka works together nicely for providing an unified API gateway. 
 
 In progress:
 
-* [API gateway for web and registration](https://spring.io/guides/gs/routing-and-filtering/).
 
 Proposed:
 
@@ -69,6 +69,13 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 761754 | [Victor Martinez](https://github.com/viriannn) | [viriannn/lab6-microservices](https://github.com/viriannn/lab6-microservices/tree/test) |    |
 | 755742 | [Juan José Tambo](https://github.com/jtambo99) | [jtambo99/lab6-microservices](https://github.com/jtambo99/lab6-microservices/tree/test) |    |
 | 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) | [irefu/lab6-microservices](https://github.com/irefu/lab6-microservices/tree/test) |    |
-| 758807 | [Jorge García Pueyo](https://github.com/jgarciapueyo) | [jgarciapueyo/lab6-microservices](https://github.com/jgarciapueyo/lab6-microservices/tree/test) | [API gateway for web and registration](https://spring.io/guides/gs/routing-and-filtering/) | |
+| 758807 | [Jorge García Pueyo](https://github.com/jgarciapueyo) | [jgarciapueyo/lab6-microservices](https://github.com/jgarciapueyo/lab6-microservices/tree/test) | [API gateway for web and registration](https://github.com/jgarciapueyo/lab6-microservices/tree/gift) | :gift: |
 | 756308 | [Álvaro Santamaría](https://github.com/SanTa45zgz) | [SanTa45zgz/lab6-microservices](https://github.com/SanTa45zgz/lab6-microservices/tree/test) |  |
+| 723883 | [Jorge Turbica](https://github.com/turbica) | [Turbica/lab6-microservices](https://github.com/turbica/lab6-microservices/tree/test) |  |
+| 735041 | [Eduardo Díaz Larraga](https://github.com/ediazl) | [ediazl/lab6-microservices](https://github.com/ediazl/lab6-microservices/tree/test) |    |
+| 764429 | [Martín Gascón](https://github.com/MartinGasconL) | [MartinGasconL/lab6-microservices](https://github.com/MartinGasconL/lab6-microservices/tree/test) |  |
+| 764539 | [Eduardo Ruiz Cordón](https://github.com/eduardoRuizC) | [eduardoRuizC/lab6-microservices](https://github.com/eduardoRuizC/lab6-microservices/tree/test) |    |
+| 755769 | [Saúl Flores Benavente](https://github.com/saul205) | [saul205/lab6-microservices](https://github.com/saul205/lab6-microservices/tree/test) |    |
+| 740491 | [José Ignacio Hernández Gracia](https://github.com/740491) | [740491/lab6-microservices](https://github.com/740491/lab6-microservices/tree/test) |  | |
+| 719974 | [Sergio Martínez Martín](https://github.com/Sergio-Martinez-97) | [Sergio-Martinez-97/lab6-microservices](https://github.com/Sergio-Martinez-97/lab6-microservices/tree/test) |  | |
 | 737070 | [Daniel Barceló](https://github.com/DaniBarcelo) | [DaniBarcelo/lab6-microservices](https://github.com/DaniBarcelo/lab6-microservices/tree/test) |  |
